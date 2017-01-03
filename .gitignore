@@ -1,0 +1,8 @@
+/build/
+/source/
+
+# iThoughts data we don't need to track. Auto-generated.
+/data/preview.png
+/data/manifest.plist
+/data/display_state.plist
+/data/text.md
